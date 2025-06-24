@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/random-emoji-cat-generator/static/css/main.611c9ff1.css",
+    "main.css": "/random-emoji-cat-generator/static/css/main.3535f305.css",
     "main.js": "/random-emoji-cat-generator/static/js/main.7b541bab.js",
     "static/js/453.7ab9e458.chunk.js": "/random-emoji-cat-generator/static/js/453.7ab9e458.chunk.js",
     "index.html": "/random-emoji-cat-generator/index.html",
-    "main.611c9ff1.css.map": "/random-emoji-cat-generator/static/css/main.611c9ff1.css.map",
+    "main.3535f305.css.map": "/random-emoji-cat-generator/static/css/main.3535f305.css.map",
     "main.7b541bab.js.map": "/random-emoji-cat-generator/static/js/main.7b541bab.js.map",
     "453.7ab9e458.chunk.js.map": "/random-emoji-cat-generator/static/js/453.7ab9e458.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.611c9ff1.css",
+    "static/css/main.3535f305.css",
     "static/js/main.7b541bab.js"
   ]
 }
